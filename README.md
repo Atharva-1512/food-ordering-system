@@ -1,3 +1,6 @@
+
+
+
 # 🍔 Food Ordering System
 
 A full-stack Food Ordering System that allows users to browse food items, add them to cart, and place orders seamlessly. The platform also includes admin functionalities to manage menu items and orders.
